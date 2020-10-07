@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.testfour',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='asdfasdfnew branch',
+      long_description='asdfasdfnew branch\r\n\r\nanother commit in foo',
       long_description_content_type='text/markdown',
       author='Jonathan Pyle',
       author_email='admin@admin.com',
