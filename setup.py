@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.testfour',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='asdfasdf\r\nasdfasdf\r\nasdf\r\nsfda\r\nasdfasdf\r\n\r\nasfasdf',
+      long_description='asdfasdf\r\nasdfasdf\r\nasdf\r\nsfda\r\nasdfasdf\r\n\r\nasfasdf\r\n\r\n3233223',
       long_description_content_type='text/markdown',
       author='Jonathan Pyle',
       author_email='admin@admin.com',
