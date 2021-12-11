@@ -1,1 +1,1 @@
-foo = 'nar'
+foo = 'bar'
